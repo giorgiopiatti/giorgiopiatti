@@ -42,7 +42,7 @@ During my Master Thesis I worked on [Cooperate or Collapse: Emergence of Sustain
   
 [SUBER: An RL Environment with Simulated Human Behavior for Recommender Systems](https://github.com/SUBER-Team/SUBER) (Paper accepted at ECAI 2024): A framework for synthetic environments that simulate human behavior by harnessing the capabilities of large language models (LLMs). We complement our framework with in-depth ablation studies and demonstrate its effectiveness with experiments on movie and book recommendations. By utilizing LLMs as synthetic users, we introduce a modular and novel framework for training RL-based recommender systems. 
 
-[Briscola RL](https://github.com/TiCinesi/Learning-to-Bluff-and-Cooperate) We construced a multi-agent Briscola (italian card game) environment and trained RNN-based agents using  reinforcement learning.
+[Learning to Bluff and Cooperate: RL in Briscola](https://github.com/TiCinesi/Learning-to-Bluff-and-Cooperate) We construced a multi-agent Briscola (italian card game) environment and trained RNN-based agents using  reinforcement learning.
 
 ## Before saying goodbye 
 
