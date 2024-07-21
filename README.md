@@ -17,7 +17,7 @@
 ## About Me:
 I'm Swiss, 24 years old, highly driven and technically proficient machine learning engineer!
 
-Currently, I work as a student research assistant, and I expect to complete my master's degree in 2024.
+Currently, I work as a student research assistant, and I expect to complete my Computer Science  Master's degree in 2024.
 My hands-on experience spans six ETH projects and three research projects, resulting in academic papers (one workshop, two under review). I am passionate about continuously learning new technologies and eager to contribute to cutting-edge research and development in a dynamic engineering environment.
 
 ## Present:
