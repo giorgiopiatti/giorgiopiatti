@@ -24,7 +24,7 @@ My hands-on experience spans six ETH projects and three research projects, resul
 I’m working as Student Research Assistent with Zhijing Jin and Mrinmaya Sachan at ETH Zürich.
 
 ## Future:
-I am looking for a full time position starting December 2024 or January 2025. 
+I am looking for a full time position starting January 2025. 
 
 If you're looking for someone that
 - has broad machine learning expertise
