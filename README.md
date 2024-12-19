@@ -49,6 +49,4 @@ During my Master Thesis I worked on [Cooperate or Collapse: Emergence of Sustain
 
 ## Before saying goodbye 
 
-You can find more projects I've worked on and my full cv in my [personal website](https://robertoceraolo.com/).
-
 If you want to connect with me, feel free to send me a DM on [Linkedin](https://www.linkedin.com/in/giorgiopiatti/)! 
